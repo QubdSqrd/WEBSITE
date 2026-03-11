@@ -6,9 +6,15 @@ p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-div.topbar-menu {
+.topbar-menu {
 
   background-color: bisque;
   color: tomato;
 
+}
+
+.body-text {
+  background-color: lightslategray;
+  align-items: center;
+  text-align: center;
 }
