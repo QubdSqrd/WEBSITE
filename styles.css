@@ -1,28 +1,28 @@
 h1 {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
 }
 
 p {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
 }
 
 .topbar-menu {
 
-  background-color: bisque;
-  color: tomato;
+  background-color: red;
+  color: yellow;
   font-size: 50px;
   text-decoration: underline;
 
 }
 
 .body-text {
-  background-color: black;
-  align-items: center;
-  text-align: center;
-  color: white;
   font-size: 30px;
 }
 
 html {
   background-color: black;
+  align-items: center;
+  text-align: center;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
