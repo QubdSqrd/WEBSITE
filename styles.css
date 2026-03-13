@@ -16,7 +16,9 @@ p {
 }
 
 .body-text {
-  background-color: lightslategray;
+  background-color: black;
   align-items: center;
   text-align: center;
+  color: white;
+  font-size: 30px;
 }
