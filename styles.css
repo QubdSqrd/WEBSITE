@@ -22,3 +22,7 @@ p {
   color: white;
   font-size: 30px;
 }
+
+html {
+  background-color: black;
+}
