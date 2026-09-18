@@ -1,6 +1,4 @@
 /* CSS Document */
-/* Will be used to style the website */
-/* If you're reading this, hello! I'm currently in the middle of revamping this website, if you want to visit the old version, click the link below */
 
 .topbar-menu {
 
@@ -8,6 +6,7 @@
   color: yellow;
   font-size: 50px;
   text-decoration: underline;
+  text-align: center;
 
 }
 
@@ -20,5 +19,5 @@ html {
   align-items: center;
   text-align: center;
   color: white;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Courier New', Courier, monospace;
 }
